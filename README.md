@@ -92,7 +92,7 @@ This project leverages a wide range of fundamental and intermediate Java concept
 ## 📐 System Architecture
 
 The following class diagram shows the relationship between the core components of the system:
-
+```
 +----------------------------+
 |         <<Exception>>      |
 |   UserNotFoundException    |
@@ -144,7 +144,9 @@ The following class diagram shows the relationship between the core components o
 | + main(args: String[]): void|
 +----------------------------+
 
+The following textual class diagram represents the core structure of the application and shows how the main components interact with each other.
 
+```
 
 ## 📁 Project Structure
 
